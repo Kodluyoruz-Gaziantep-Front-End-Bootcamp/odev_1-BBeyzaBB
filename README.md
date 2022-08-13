@@ -7,7 +7,8 @@
 
 ## Homework Description
 
-```let arr2 = ['c', 'c', 'h', 1, 1, 1, 4]
+let arr1 = ['2', 'a', '3', 3, 4, 3, 5, 5]
+let arr2 = ['c', 'c', 'h', 1, 1, 1, 4]
 let arr3 = [
     { name: 'ali', id: 221 },
     { name: 'veli', id: 343 },
@@ -34,7 +35,8 @@ let arr4 = [1, 1, 1, 4, 5, 5, 3, 2]
 12- arr3 içindeki user değerleri ali olan elemanları bulunuz
 13- arr3 içindeki elemanlarının id değerlerinin toplamlarını bulan bir reduce fonsiyonu yazınız
 
-her sorunun cevabını console.log ile yazıdırın``` ```
+her sorunun cevabını console.log ile yazıdırın
+*/
 
 
 ## Author
